@@ -32,7 +32,8 @@
 5. Execute the code 
 
 ## Results
-Video output is generated showing the explored nodes and the optimal path calculated using A* Algorithm
+Video output is generated showing the explored nodes and the optimal path calculated using A* Algorithm 
+
 ![Output](output.gif)
 
 ### Terminal output: 
