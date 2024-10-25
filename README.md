@@ -1,6 +1,6 @@
 # Path-Planning-of-mobile-robot-using-A-star-Algorithm
 
-# ENPM661: Planning for Autonomous Robots
+## ENPM661: Planning for Autonomous Robots
 
 ## Project Members
 - Venkata Sai Sricharan Kasturi - UID: 119444788
